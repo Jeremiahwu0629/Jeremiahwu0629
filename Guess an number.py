@@ -1,3 +1,5 @@
+#Ver 1.0.1
+
 import math
 import random
 
